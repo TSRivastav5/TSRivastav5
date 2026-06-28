@@ -1,122 +1,139 @@
-# Hi, I'm Trishant Srivastav 👋
+# Trishant Srivastav
 
-**Full Stack Developer · Backend Engineer · AI Enthusiast**
+**Backend Engineer · Full Stack Developer · AI Applications**
 
-System Engineer at DiaTrac Solution, building production ERP systems with Node.js and PostgreSQL. MCA graduate (Amity University, 2026). I build and ship real-world software — from AI-powered document intelligence tools to personal finance managers — and I'm actively exploring backend architecture, AI integration, and scalable system design.
-
----
-
-## 🚀 What I'm Working On
-
-- 🔧 **At Work** — Architecting a Node.js + PostgreSQL ERP platform for inventory, accounting & transactions at DiaTrac Solution
-- 🤖 **DocuMind** — AI document intelligence tool using OCR + NLP to extract entities from PDFs and scanned images
-- 💸 **FRIDAY** — AI-powered personal finance manager with smart income allocation and real-time insights
+System Engineer building production ERP systems and AI-powered web applications. I work across the full stack but think backend-first — focused on API design, database architecture, and writing software that holds up in production.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages**
+- Building a multi-tenant ERP platform for inventory management, accounting workflows, and transaction processing using Node.js, Express.js, and PostgreSQL
+- Designed and shipped 20+ REST APIs with JWT authentication, RBAC, and normalized database schemas serving real business operations
+- Shipped two AI-powered products to production: a document intelligence platform (OCR + NLP) and a personal finance manager
+- Interested in scalable backend architecture, distributed systems, and the intersection of AI and software engineering
+- Exploring system design patterns, microservices, and LLM-powered product development
+- Currently deepening knowledge in cloud infrastructure, async processing, and production ML systems
+- Looking to grow in backend platform engineering and AI application development
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-**Frontend**
+## Currently Working On
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+| Project | What |
+|---|---|
+| **DiaTrac ERP** | Production multi-tenant ERP platform — inventory, accounting, and transaction APIs |
+| **DocuMind** | AI document intelligence — OCR pipeline + spaCy NER extraction at scale |
+| **FRIDAY** | AI personal finance manager — smart allocation engine and conversational UI |
+| **System Design** | Studying distributed systems, caching layers, and API gateway patterns |
+
+---
+
+## Featured Projects
+
+### DocuMind — AI Document Intelligence
+**Problem:** Extracting structured data from unstructured documents (PDFs, scans, invoices) is slow and error-prone at scale.
+
+**Engineering approach:** Built a full OCR preprocessing pipeline (adaptive thresholding, perspective correction, auto-crop via OpenCV) feeding into a spaCy NLP engine for Named Entity Recognition across 13+ entity types. Confidence scoring at the entity level. Docker-containerized and deployed on Render.
+
+```
+Stack: Flask · spaCy · Tesseract OCR · OpenCV · PyMuPDF · Docker · Vanilla JS
+```
+
+[![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=render&logoColor=white)](https://documind-ai-document-understanding.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5/DocuMind-AI-Document-Understanding)
+
+---
+
+### FRIDAY — AI Personal Finance Manager
+**Problem:** Personal finance tools are passive — they record what happened but don't help you decide what to do next.
+
+**Engineering approach:** Built an automated income allocation engine with configurable category weights, real-time recalculation, and a conversational AI assistant for financial guidance. Mobile-first architecture with Zustand for state, Chart.js for visualization, and Framer Motion for interaction design.
+
+```
+Stack: React · Tailwind CSS · Zustand · Chart.js · Framer Motion
+```
+
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://friday-pink.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5/FRIDAY)
+
+---
+
+### Enterprise Multi-Tenant ERP Platform
+**Problem:** Diamond and jewelry businesses rely on disconnected manual workflows for inventory, accounting, and transaction management.
+
+**Engineering approach:** Designed a multi-tenant backend with tenant data isolation, normalized PostgreSQL schemas, and role-based access control (Admin / Manager / Operator). Optimized query performance using indexing and transaction batching. 20+ REST APIs serving real-time business operations in production.
+
+```
+Stack: Node.js · Express.js · PostgreSQL · JWT · React
+```
+
+*Production system at DiaTrac Solution*
+
+---
+
+## Technical Toolbox
 
 **Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Express.js](https://img.shields.io/badge/Express-%23404d59?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000?style=flat-square&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / ML**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 📌 Featured Projects
-
-### 🔍 [DocuMind — AI Document Intelligence](https://documind-ai-document-understanding.onrender.com/)
-> Flask · Tesseract OCR · spaCy · OpenCV · PyMuPDF · Docker
-
-AI-powered document analysis platform that extracts 13+ named entity types (names, dates, amounts, PAN, GSTIN) from PDFs and scanned images in milliseconds. Built with an OCR preprocessing pipeline, spaCy NLP, confidence scoring, and deployed via Docker on Render.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=render&logoColor=white)](https://documind-ai-document-understanding.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5/DocuMind-AI-Document-Understanding)
+**Testing & Tools**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-### 💸 [FRIDAY — AI Personal Finance Manager](https://friday-pink.vercel.app/)
-> React · Tailwind CSS · Zustand · Chart.js · Framer Motion
+## Areas of Interest
 
-Mobile-first AI finance web app with automated income allocation, expense tracking, EMI management, investment monitoring, and a ChatGPT-style AI assistant for personalized financial guidance. Deployed on Vercel.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://friday-pink.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5/FRIDAY)
-
----
-
-### 🖐️ Gesture-Controlled Virtual Mouse & Keyboard
-> Python · MediaPipe · CVZone · OpenCV
-
-Real-time contactless input system using webcam-based hand gesture recognition. Controls mouse movement, clicks, scrolling, keyboard input, and presentation slides — no physical peripherals required.
+- **Backend Engineering** — API design, performance optimization, database architecture
+- **System Design** — Scalable distributed systems, multi-tenant SaaS, microservices patterns  
+- **AI Applications** — LLM-powered products, OCR/NLP pipelines, AI + software engineering
+- **Developer Productivity** — Tools that make engineering teams ship faster and better
+- **Production Engineering** — Observability, debugging, and performance at scale
 
 ---
 
-### 🧠 Autism Detection via Transfer Learning *(Research)*
-> Python · TensorFlow · Keras · Scikit-learn
+## GitHub Stats
 
-ASD detection research prototype using MRI images with VGG16 and ResNet50 transfer learning, hyperparameter-optimized via Genetic Algorithm and PSO. Associated with Amity University NTCC Research Program.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TSRivastav5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSRivastav5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TSRivastav5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSRivastav5&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="160"/>
 </p>
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=TSRivastav5&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishantsrivastav/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishantsrivastav/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trishantsrivastava5005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5)
 
 ---
 
-*Currently open to SDE-1, Full Stack, Backend Developer, and AI Engineer roles.*
+*Open to backend engineering, full stack, and AI engineer roles.*
