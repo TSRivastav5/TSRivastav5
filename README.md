@@ -1,18 +1,122 @@
- #  Hi 👋, I'm Trishant Srivastav
-<br>MCA student passionate about Software Development, Testing, and AI — actively building real-world projects and learning modern tech stacks.<br>🔭 Working as: System Engineer <br><br>👯 Collaborate on: Web dev, ML/AI (computer vision, healthcare), and open-source projects.<br><br>🤝 Need help with: Full-stack development, React, and production-level ML practices.<br><br>🌱 Learning: Advanced Python, React, API testing, SQL, system design.<br><br>💬 Ask me about: Manual & API testing, TensorFlow/Keras, transfer learning, GA & PSO, ERP systems.<br><br>⚡ Fun fact: Completed a 22 km Himalayan trek (Kedarkantha) and love trekking & photography.<br>
+# Hi, I'm Trishant Srivastav 👋
 
+**Full Stack Developer · Backend Engineer · AI Enthusiast**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trishantsrivastav) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/T.SRivastav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trishantsrivastav9838@gmail.com) 
+System Engineer at DiaTrac Solution, building production ERP systems with Node.js and PostgreSQL. MCA graduate (Amity University, 2026). I build and ship real-world software — from AI-powered document intelligence tools to personal finance managers — and I'm actively exploring backend architecture, AI integration, and scalable system design.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TSRivastav5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TSRivastav5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TSRivastav5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TSRivastav5&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🚀 What I'm Working On
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔧 **At Work** — Architecting a Node.js + PostgreSQL ERP platform for inventory, accounting & transactions at DiaTrac Solution
+- 🤖 **DocuMind** — AI document intelligence tool using OCR + NLP to extract entities from PDFs and scanned images
+- 💸 **FRIDAY** — AI-powered personal finance manager with smart income allocation and real-time insights
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+### 🔍 [DocuMind — AI Document Intelligence](https://documind-ai-document-understanding.onrender.com/)
+> Flask · Tesseract OCR · spaCy · OpenCV · PyMuPDF · Docker
+
+AI-powered document analysis platform that extracts 13+ named entity types (names, dates, amounts, PAN, GSTIN) from PDFs and scanned images in milliseconds. Built with an OCR preprocessing pipeline, spaCy NLP, confidence scoring, and deployed via Docker on Render.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=render&logoColor=white)](https://documind-ai-document-understanding.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5/DocuMind-AI-Document-Understanding)
+
+---
+
+### 💸 [FRIDAY — AI Personal Finance Manager](https://friday-pink.vercel.app/)
+> React · Tailwind CSS · Zustand · Chart.js · Framer Motion
+
+Mobile-first AI finance web app with automated income allocation, expense tracking, EMI management, investment monitoring, and a ChatGPT-style AI assistant for personalized financial guidance. Deployed on Vercel.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://friday-pink.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5/FRIDAY)
+
+---
+
+### 🖐️ Gesture-Controlled Virtual Mouse & Keyboard
+> Python · MediaPipe · CVZone · OpenCV
+
+Real-time contactless input system using webcam-based hand gesture recognition. Controls mouse movement, clicks, scrolling, keyboard input, and presentation slides — no physical peripherals required.
+
+---
+
+### 🧠 Autism Detection via Transfer Learning *(Research)*
+> Python · TensorFlow · Keras · Scikit-learn
+
+ASD detection research prototype using MRI images with VGG16 and ResNet50 transfer learning, hyperparameter-optimized via Genetic Algorithm and PSO. Associated with Amity University NTCC Research Program.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TSRivastav5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSRivastav5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+</p>
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=TSRivastav5&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishantsrivastav/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trishantsrivastava5005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/TSRivastav5)
+
+---
+
+*Currently open to SDE-1, Full Stack, Backend Developer, and AI Engineer roles.*
